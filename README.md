@@ -4,6 +4,8 @@ Live demo of the [posthook/nextjs-starter](https://github.com/posthook/nextjs-st
 
 **Live at**: [nextjs-starter.posthook.io](https://nextjs-starter.posthook.io)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fposthook%2Fnextjs-starter-live&env=POSTHOOK_API_KEY,POSTHOOK_SIGNING_KEY&envDescription=Get%20your%20Posthook%20API%20key%20at%20posthook.io.%20OPENAI_API_KEY%20is%20optional%20(falls%20back%20to%20simulated%20drafts).&envLink=https%3A%2F%2Fposthook.io%2Fapp%2Fsignup&optionalEnv=OPENAI_API_KEY&stores=%5B%7B%22type%22%3A%22neon%22%7D%5D)
+
 ## What This Adds on Top of the Starter
 
 The [starter repo](https://github.com/posthook/nextjs-starter) has the backend patterns. This demo adds:
