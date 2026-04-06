@@ -4,7 +4,7 @@ An AI content review app built with Next.js, OpenAI, and [Posthook](https://post
 
 **Live at**: [nextjs-starter.posthook.io](https://nextjs-starter.posthook.io)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fposthook%2Fnextjs-posthook-ai-review&env=POSTHOOK_API_KEY,POSTHOOK_SIGNING_KEY&envDescription=Get%20your%20Posthook%20API%20key%20at%20posthook.io.%20OPENAI_API_KEY%20is%20optional%20(falls%20back%20to%20simulated%20drafts).&envLink=https%3A%2F%2Fposthook.io%2Fapp%2Fsignup&optionalEnv=OPENAI_API_KEY&stores=%5B%7B%22type%22%3A%22neon%22%7D%5D)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fposthook%2Fnextjs-posthook-ai-review&env=POSTHOOK_API_KEY,POSTHOOK_SIGNING_KEY&envDescription=Get%20your%20Posthook%20API%20key%20at%20posthook.io.%20OPENAI_API_KEY%20is%20optional%20(falls%20back%20to%20simulated%20drafts).&envLink=https%3A%2F%2Fposthook.io%2Fapp%2Fsignup&optionalEnv=OPENAI_API_KEY&stores=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22neon%22%2C%22productSlug%22%3A%22neon%22%2C%22protocol%22%3A%22storage%22%7D%5D)
 
 [![Screenshot](screenshot.png)](https://nextjs-starter.posthook.io)
 
